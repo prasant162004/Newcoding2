@@ -1,3 +1,3 @@
 # Newcoding2
-This is my second repository
-ps
+This is my second repository....
+
